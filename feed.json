@@ -7,6 +7,41 @@
 	"items": [
 		
 			{
+				"id": "http://fff.micro.blog/2026/03/28/why-are-you-feeding-the.html",
+				"title": "Why Are you Feeding the Palantir Database?",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<br>\n... Louder for the people in the back ..... <br>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ahWODOQ2_o4?si=YjhY-J2vFi4SMbfj\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n",
+				"date_published": "2026-03-28T13:22:38+01:00",
+				"url": "https://fff.omg.lol/2026/03/28/why-are-you-feeding-the.html",
+				"tags": ["www"]
+			},
+			{
+				"id": "http://fff.micro.blog/2026/03/28/kindly-step-on-a-piece.html",
+				"title": "Kindly step on a piece of Lego . . .",
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<br>\nImagine getting your account locked for uploading a picture of Rem. rip.\n\n<img src=\"uploads/2026/screenshot-2026-03-28-121919.png\">\n",
+				"date_published": "2026-03-28T12:23:32+01:00",
+				"url": "https://fff.omg.lol/2026/03/28/kindly-step-on-a-piece.html"
+			},
+			{
+				"id": "http://fff.micro.blog/2026/03/28/god-stemning-i-chatten.html",
+				"title": "God stemning i chatten",
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<br>\n\n<img src=\"uploads/2026/godstemningichatten.png\">\n",
+				"date_published": "2026-03-28T08:47:48+01:00",
+				"url": "https://fff.omg.lol/2026/03/28/god-stemning-i-chatten.html",
+				"tags": ["FFF","fff/img"]
+			},
+			{
+				"id": "http://fff.micro.blog/2026/03/27/should-you-feel-guilty-using.html",
+				"title": "Should you feel guilty using AI? ... (yes)",
+				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "<br><br>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/5sFBySzNIX0?si=vxDpWCFfot7mG56W\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n",
+				"date_published": "2026-03-27T16:22:59+01:00",
+				"url": "https://fff.omg.lol/2026/03/27/should-you-feel-guilty-using.html",
+				"tags": ["links","links/tech","www"]
+			},
+			{
 				"id": "http://fff.micro.blog/2026/03/19/mr-beast-is-just-a.html",
 				"title": "Mr. Beast is just a product of the 1%",
 				"content_html": "<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<!-- raw HTML omitted -->\n",
@@ -19,7 +54,7 @@
 				"id": "http://fff.micro.blog/2026/03/19/protect-me-from-what-i.html",
 				"title": "Protect me from what I want",
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted -->\nHighkey .. ?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "<br><br>\nHighkey .. ?\n\n<img src=\"uploads/2026/lords.png\" width=\"600\" height=\"527\" alt=\"\">\n",
+				"content_text": "<br><br>\nHighkey .. ?\n\n<img src=\"https://eu.uploads.micro.blog/297933/2026/lords.png\" width=\"600\" height=\"527\" alt=\"\">\n",
 				"date_published": "2026-03-19T16:56:43+01:00",
 				"url": "https://fff.omg.lol/2026/03/19/protect-me-from-what-i.html",
 				"tags": ["fff/gaming"]
@@ -27,8 +62,8 @@
 			{
 				"id": "http://fff.micro.blog/2026/03/15/shmirlap-mikro-calderon-thomas-ill.html",
 				"title": "Shmirlap · Mikro · Calderon Thomas - I'll Bifle Back",
-				"content_html": "<p>Tormented realm. Digging it. Will go again.\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted --></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Tormented realm. Digging it. Will go again.\n<br>\n<br>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ZOdLPU0M4kg?si=5CqnTJLSll6VrNv-\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n",
+				"content_html": "<p>Tormented realm.\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted --></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Tormented realm.\n<br>\n<br>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ZOdLPU0M4kg?si=5CqnTJLSll6VrNv-\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n",
 				"date_published": "2026-03-15T02:05:09+01:00",
 				"url": "https://fff.omg.lol/2026/03/15/shmirlap-mikro-calderon-thomas-ill.html",
 				"tags": ["music","www"]
@@ -37,7 +72,7 @@
 				"id": "http://fff.micro.blog/2026/03/15/013727.html",
 				"title": " . . . ......",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<br>\n<img src=\"uploads/2026/5128f9ae7d6f72ddaabb6c1dc2f191ff.jpg\">\n",
+				"content_text": "<br>\n<img src=\"https://eu.uploads.micro.blog/297933/2026/5128f9ae7d6f72ddaabb6c1dc2f191ff.jpg\">\n",
 				"date_published": "2026-03-15T01:37:27+01:00",
 				"url": "https://fff.omg.lol/2026/03/15/013727.html",
 				"tags": ["www"]
@@ -46,7 +81,7 @@
 				"id": "http://fff.micro.blog/2026/03/15/human-by-chance-alpha-by.html",
 				"title": "Human By Chance - Alpha By Choice",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<br>\n<img src=\"uploads/2026/humanbychancealphabychoice.png\">\n",
+				"content_text": "<br>\n<img src=\"https://eu.uploads.micro.blog/297933/2026/humanbychancealphabychoice.png\">\n",
 				"date_published": "2026-03-15T01:28:03+01:00",
 				"url": "https://fff.omg.lol/2026/03/15/human-by-chance-alpha-by.html"
 			},
@@ -77,21 +112,13 @@
 				"tags": ["www"]
 			},
 			{
-				"id": "http://fff.micro.blog/2026/03/08/mirror.html",
-				"title": "Mirror.",
-				"content_html": "<p>&hellip; I resonate with it - The paradox of being a loner.\n<!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "... I resonate with it - The paradox of being a loner.\n<br><br>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/xcfhtRn5cuU?si=gRZjpp4FgTb1_fyF&start=252\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n",
-				"date_published": "2026-03-08T14:44:38+01:00",
-				"url": "https://fff.omg.lol/2026/03/08/mirror.html"
-			},
-			{
 				"id": "http://fff.micro.blog/2026/03/06/king-diamond-elevaren.html",
 				"title": "King Diamond @ Eleva2ren.",
-				"content_html": "<p>Epic 1989/1990 interview of King Diamond defending satanism  :')</p>\n<!-- raw HTML omitted -->\n<p>Part 2:</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Epic 1989/1990 interview of King Diamond defending satanism  :')\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/0Rz47t92IH8?si=kHhjzDrY0pu5DZIC\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n\nPart 2:\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/CWye6g9sN5Q?si=cFTsmjU6hPTbVahK\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n",
+				"content_html": "<p>Epic 1989/1990 interview of King Diamond defending satanism  :'] <!-- raw HTML omitted --></p>\n<!-- raw HTML omitted -->\n<p>Part 2:</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Epic 1989/1990 interview of King Diamond defending satanism  :'] <br>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/0Rz47t92IH8?si=kHhjzDrY0pu5DZIC\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n\nPart 2:\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/CWye6g9sN5Q?si=cFTsmjU6hPTbVahK\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n",
 				"date_published": "2026-03-06T23:30:12+01:00",
 				"url": "https://fff.omg.lol/2026/03/06/king-diamond-elevaren.html",
-				"tags": ["music"]
+				"tags": ["music","www"]
 			},
 			{
 				"id": "http://fff.micro.blog/2026/03/06/hackers-expose-ageverification-software-powering.html",
