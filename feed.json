@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://fff.micro.blog/2026/04/29/back-in-my-day.html",
+				"title": "\"Back in my day ....\" 👵🏻",
+				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<br><br>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/8rJzWsKCacg?si=HKr0KyBTN4ZjbjB1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n\n<img src=\"uploads/2026/screenshot-2026-04-29-at-08-25-55-21-gade-x-101-komma-gade-fm-youtube.png\" width=\"506\" height=\"111\" alt=\"\">\n",
+				"date_published": "2026-04-29T08:29:02+02:00",
+				"url": "https://fff.omg.lol/2026/04/29/back-in-my-day.html",
+				"tags": ["www"]
+			},
+			{
 				"id": "http://fff.micro.blog/2026/04/11/014843.html",
 				"title": ":')",
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
@@ -44,7 +53,7 @@
 				"id": "http://fff.micro.blog/2026/04/02/rems-otaku-degen-pillow-most.html",
 				"title": "Rems Otaku Degen Pillow (Most loved on the market)",
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<br>\n- A work in progress.... Texture / Skin Mod for Rem.<br>\nI'll make it available on GameBanana when it's finished. #deadlockmods <br>\n\n<img src=\"uploads/2026/pillowcrashscreenshotwatermark.png\">\n",
+				"content_text": "<br>\n- A work in progress.... Texture / Skin Mod for Rem.<br>\nI'll make it available on GameBanana when it's finished. #deadlockmods <br>\n\n<img src=\"https://eu.uploads.micro.blog/297933/2026/pillowcrashscreenshotwatermark.png\">\n",
 				"date_published": "2026-04-02T08:48:00+02:00",
 				"url": "https://fff.omg.lol/2026/04/02/rems-otaku-degen-pillow-most.html",
 				"tags": ["FFF","fff/gaming","fff/projects","fff/img"]
