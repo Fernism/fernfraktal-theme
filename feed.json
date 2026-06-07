@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://fff.micro.blog/2026/06/07/by-comicblues.html",
+				
+				"content_html": "<p>by <!-- raw HTML omitted -->comicblues<!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "by <a href=\"https://linktr.ee/comicblues\">comicblues</a><br><br>\n\n<img src=\"\">\n<img src=\"\">\n<img src=\"\">\n<img src=\"\">\n",
+				"date_published": "2026-06-07T16:20:12+02:00",
+				"url": "https://fff.omg.lol/2026/06/07/by-comicblues.html"
+			},
+			{
 				"id": "http://fff.micro.blog/2026/06/06/character-animation-at-pixar-year.html",
 				"title": "Character animation at Pixar, year 1995.",
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -17,17 +25,17 @@
 			},
 			{
 				"id": "http://fff.micro.blog/2026/06/06/wishlist.html",
-				"title": "Wishlist",
+				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2026/matrixarnold.png\" width=\"600\" height=\"589\" alt=\"\">\n",
+				"content_text": "<img src=\"uploads/2026/matrixarnold.png\">\n",
 				"date_published": "2026-06-06T02:50:30+02:00",
 				"url": "https://fff.omg.lol/2026/06/06/wishlist.html"
 			},
 			{
 				"id": "http://fff.micro.blog/2026/06/05/h-y-g-g-e.html",
-				"title": " h y g g e :/",
+				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2026/626924ecb1d18b37b16c59b3709474b3.jpg\" width=\"600\" height=\"599\" alt=\"\">\n",
+				"content_text": "<img src=\"uploads/2026/626924ecb1d18b37b16c59b3709474b3.jpg\">\n",
 				"date_published": "2026-06-05T19:10:07+02:00",
 				"url": "https://fff.omg.lol/2026/06/05/h-y-g-g-e.html"
 			},
@@ -42,8 +50,8 @@
 			{
 				"id": "http://fff.micro.blog/2026/06/05/sylvaine-mrklagt-live-session-paris.html",
 				"title": "Sylvaine - \"Mørklagt\", Live Session Paris 2019",
-				"content_html": "<!-- raw HTML omitted -->\n<p>So very very pretty.<!-- raw HTML omitted --></p>\n<!-- raw HTML omitted -->\n<p>From Norwegian to English lyrics:\n<!-- raw HTML omitted --><!-- raw HTML omitted -->\nWithout hope\nLife is hard\nWithout the light\nThe darkness takes over\nI can neither\nFeel nor breathe\nNow as the burden\nHas become too great</p>\n<p>A want for another time\nA want for another place</p>\n<p>The deepest longing\nLeft for all\nCondemned\nTo stand alone</p>\n<p>The deepest longing\nA sorrow too heavy to bear\nA world without light\nHaunted by gloom\nBlacked out</p>\n<p>When you stand on the outside\nAnd try to understand in vain\nA want for another time\nA want for another place<!-- raw HTML omitted --></p>\n",
-				"content_text": "<br>\n\nSo very very pretty.<br>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/bvHOVuCvvHI?si=qkMFA1olM4Js6cl0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n<br><br>\n\nFrom Norwegian to English lyrics:\n<br><i>\nWithout hope\nLife is hard\nWithout the light\nThe darkness takes over\nI can neither\nFeel nor breathe\nNow as the burden\nHas become too great\n \nA want for another time\nA want for another place\n \nThe deepest longing\nLeft for all\nCondemned\nTo stand alone\n \nThe deepest longing\nA sorrow too heavy to bear\nA world without light\nHaunted by gloom\nBlacked out\n \nWhen you stand on the outside\nAnd try to understand in vain\nA want for another time\nA want for another place</i>\n",
+				"content_html": "<p>So very very pretty.<!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "So very very pretty.<br><br>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/bvHOVuCvvHI?si=qkMFA1olM4Js6cl0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n",
 				"date_published": "2026-06-05T08:04:42+02:00",
 				"url": "https://fff.omg.lol/2026/06/05/sylvaine-mrklagt-live-session-paris.html",
 				"tags": ["www"]
@@ -51,8 +59,8 @@
 			{
 				"id": "http://fff.micro.blog/2026/05/29/you-and-i-are-in.html",
 				"title": "You and I are in a Dark Crypt Forever !!!!",
-				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<br>\n<br>\nThx Duus\n<br>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/5515PpSyLFc?si=MitZPmzxWcPkYROX\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n",
+				"content_html": "<p>Thx Duus.\n<!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Thx Duus.\n<br><br>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/5515PpSyLFc?si=MitZPmzxWcPkYROX\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n",
 				"date_published": "2026-05-29T18:04:39+02:00",
 				"url": "https://fff.omg.lol/2026/05/29/you-and-i-are-in.html",
 				"tags": ["www"]
@@ -60,8 +68,8 @@
 			{
 				"id": "http://fff.micro.blog/2026/05/28/ive-patiently-been-waiting-for.html",
 				"title": ".. I've patiently been waiting for years ...",
-				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted -->\nPlane tickets bought - Lebanon Hanover live incoming. <!-- raw HTML omitted -->\nMy heart will melt with joy and sorrow ♡\n<!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "<br><br>\nPlane tickets bought - Lebanon Hanover live incoming. <br>\nMy heart will melt with joy and sorrow ♡\n<br><br>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/5et43uJD2k4?si=aytJWgUfq9V8CJ-8\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n",
+				"content_html": "<p>Plane tickets bought - Lebanon Hanover live incoming. <!-- raw HTML omitted -->\nMy heart will melt with joy and sorrow ♡\n<!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Plane tickets bought - Lebanon Hanover live incoming. <br>\nMy heart will melt with joy and sorrow ♡\n<br><br>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/5et43uJD2k4?si=aytJWgUfq9V8CJ-8\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n",
 				"date_published": "2026-05-28T09:01:19+02:00",
 				"url": "https://fff.omg.lol/2026/05/28/ive-patiently-been-waiting-for.html",
 				"tags": ["www"]
@@ -69,49 +77,51 @@
 			{
 				"id": "http://fff.micro.blog/2026/05/28/hirono-road-journal-series.html",
 				"title": "Hirono - Road Journal Series",
-				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted -->\nI adore Hirinos' works. All the collectables in this series; Road Journal are cute as fuck.\nCan&rsquo;t wait to collect more.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "<br><br>\nI adore Hirinos' works. All the collectables in this series; Road Journal are cute as fuck.\nCan't wait to collect more.\n\n\n<img src=\"https://eu.uploads.micro.blog/297933/2026/labubu1-copy.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>I adore Hirinos' works. All the collectables in this series; Road Journal are cute as fuck.\nCollection kickstarted &gt; &gt;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I adore Hirinos' works. All the collectables in this series; Road Journal are cute as fuck.\nCollection kickstarted > >\n\n<img src=\"https://eu.uploads.micro.blog/297933/2026/labubu1-copy.jpg\">\n",
 				"date_published": "2026-05-28T08:55:35+02:00",
 				"url": "https://fff.omg.lol/2026/05/28/hirono-road-journal-series.html"
 			},
 			{
 				"id": "http://fff.micro.blog/2026/04/30/all-seeing-eye-by-tim.html",
 				"title": "All Seeing Eye by Tim Verhoeven",
-				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "<br><br>\n\n<img src=\"https://eu.uploads.micro.blog/297933/2026/2121f7196970069.6628b7089e446.png\" width=\"337\" height=\"600\" alt=\"\">\n\n<video controls=\"controls\" playsinline=\"playsinline\" preload=\"none\" width=\"576\" height=\"1024\" poster=\"https://eu.uploads.micro.blog/297933/2026/frames/1738085-0-2bbc1a.jpg\" src=\"https://cdn.uploads.micro.mov/297933/2026/allseeingeye/playlist.m3u8\"></video>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "<img src=\"https://eu.uploads.micro.blog/297933/2026/2121f7196970069.6628b7089e446.png\" width=\"337\" height=\"600\" alt=\"\">\n\n<video controls=\"controls\" playsinline=\"playsinline\" preload=\"none\" width=\"576\" height=\"1024\" poster=\"https://eu.uploads.micro.blog/297933/2026/frames/1738085-0-2bbc1a.jpg\" src=\"https://cdn.uploads.micro.mov/297933/2026/allseeingeye/playlist.m3u8\"></video>\n",
 				"date_published": "2026-04-30T00:43:21+02:00",
-				"url": "https://fff.omg.lol/2026/04/30/all-seeing-eye-by-tim.html"
+				"url": "https://fff.omg.lol/2026/04/30/all-seeing-eye-by-tim.html",
+				"tags": ["www"]
 			},
 			{
 				"id": "http://fff.micro.blog/2026/04/30/chill-out.html",
-				"title": "Chill out",
-				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "<br><br>\n\n<img src=\"https://eu.uploads.micro.blog/297933/2026/1ba.jpg\"><img src=\"https://eu.uploads.micro.blog/297933/2026/da3.jpg\">\n",
+				
+				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "\n\n\n<img src=\"https://eu.uploads.micro.blog/297933/2026/1ba.jpg\"><img src=\"https://eu.uploads.micro.blog/297933/2026/da3.jpg\">\n",
 				"date_published": "2026-04-30T00:37:42+02:00",
 				"url": "https://fff.omg.lol/2026/04/30/chill-out.html"
 			},
 			{
 				"id": "http://fff.micro.blog/2026/04/29/101055.html",
-				"title": "_( 「ɛ:)_",
-				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "<br><br>\n\n<img src=\"https://eu.uploads.micro.blog/297933/2026/furby-memes4-768x813-1786444854.jpg\" width=\"566\" height=\"600\" alt=\"\">\n",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\n\n\n<img src=\"https://eu.uploads.micro.blog/297933/2026/furby-memes4-768x813-1786444854.jpg\">\n",
 				"date_published": "2026-04-29T10:10:55+02:00",
-				"url": "https://fff.omg.lol/2026/04/29/101055.html"
+				"url": "https://fff.omg.lol/2026/04/29/101055.html",
+				"tags": ["www"]
 			},
 			{
 				"id": "http://fff.micro.blog/2026/04/29/back-in-my-day.html",
 				"title": "\"Back in my day ....\" 👵🏻",
-				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<br><br>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/8rJzWsKCacg?si=HKr0KyBTN4ZjbjB1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n\n<img src=\"https://eu.uploads.micro.blog/297933/2026/screenshot-2026-04-29-at-08-25-55-21-gade-x-101-komma-gade-fm-youtube.png\" width=\"506\" height=\"111\" alt=\"\">\n",
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<br>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/8rJzWsKCacg?si=HKr0KyBTN4ZjbjB1\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n\n<img src=\"https://eu.uploads.micro.blog/297933/2026/screenshot-2026-04-29-at-08-25-55-21-gade-x-101-komma-gade-fm-youtube.png\">\n",
 				"date_published": "2026-04-29T08:29:02+02:00",
 				"url": "https://fff.omg.lol/2026/04/29/back-in-my-day.html",
 				"tags": ["www"]
 			},
 			{
 				"id": "http://fff.micro.blog/2026/04/11/014843.html",
-				"title": ":')",
+				"title": "Classic Reddit Gold ♡",
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "<img src=\"https://eu.uploads.micro.blog/297933/2026/screenshot-2026-04-10-at-20-33-43-xavier-renegade-angel.png\" width=\"600\" height=\"315\" alt=\"\"><img src=\"https://eu.uploads.micro.blog/297933/2026/screenshot-2026-04-10-at-20-39-03-what-doth-bank-skabber-thats-good.-let-me.png\" width=\"600\" height=\"274\" alt=\"\">\n",
+				"content_text": "<img src=\"https://eu.uploads.micro.blog/297933/2026/screenshot-2026-04-10-at-20-33-43-xavier-renegade-angel.png\"><img src=\"https://eu.uploads.micro.blog/297933/2026/screenshot-2026-04-10-at-20-39-03-what-doth-bank-skabber-thats-good.-let-me.png\">\n",
 				"date_published": "2026-04-11T01:48:43+02:00",
 				"url": "https://fff.omg.lol/2026/04/11/014843.html"
 			},
@@ -127,7 +137,7 @@
 				"id": "http://fff.micro.blog/2026/04/09/gg-allin-documentary-merle-allin.html",
 				"title": "GG Allin documentary + Merle Allin interview.",
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted -->Part 2:<!-- raw HTML omitted -->\n<!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "<br>\nExplore the chaotic life of GG Allin.<br><br>\nThis documentary delves into Allin's upbringing & it's influence on their extreme stage presence.\n<br><br>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/hwcZpcFvqMw?si=RO0t57xCUdzRc6Ny\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe><br><br>\n\n\n<h3>Merle Allin Interview</h3>\nby <b>Soft White Underbelly</b><br><br>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/TZtyxHrHjSg?si=0ZpN4VBRZKRt9rJQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe><br><br>\n\n<b>Part 2:</b>\n<br><br>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/2rLIqksJNJA?si=wLEoYAQzZxS9X--h\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n",
+				"content_text": "<br>\nExplore the chaotic life of GG Allin.<br><br>\nThis documentary delves into Allin's upbringing & it's influence on their extreme stage presence.\n<br><br>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/hwcZpcFvqMw?si=RO0t57xCUdzRc6Ny\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe><br><br>\n\n\n<h2>Merle Allin Interview</h2><br>\nby <b>Soft White Underbelly</b><br><br>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/TZtyxHrHjSg?si=0ZpN4VBRZKRt9rJQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe><br>\n\n<b>Part 2:</b>\n<br><br>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/2rLIqksJNJA?si=wLEoYAQzZxS9X--h\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n",
 				"date_published": "2026-04-09T06:34:27+02:00",
 				"url": "https://fff.omg.lol/2026/04/09/gg-allin-documentary-merle-allin.html",
 				"tags": ["www"]
@@ -135,8 +145,8 @@
 			{
 				"id": "http://fff.micro.blog/2026/04/02/the-first-vinyl-i-ever.html",
 				"title": "My very first vinyl.",
-				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "<br>\nBought in Usmalia, 2001/02.. <br><br>\n<b>HUL - Den Danske Ungdom</b>\n<br><br>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/b7Kyq7qyqzU?si=KfwKY9zX_aoeOHek\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> <br><br>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/8idZka9vWz8?si=_IfnFd8JDHszEMx6\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n<br>\n\n<img src=\"https://eu.uploads.micro.blog/297933/2026/cf5d6e617e.png\"><img src=\"https://eu.uploads.micro.blog/297933/2026/e9980c6bd2.jpg\"><img src=\"https://eu.uploads.micro.blog/297933/2026/9b94a52905.jpg\">\n",
+				"content_html": "<p>Bought in Usmalia, 2001/02.. <!-- raw HTML omitted -->HUL - Den Danske Ungdom<!-- raw HTML omitted -->\n<!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "\nBought in Usmalia, 2001/02.. <b>HUL - Den Danske Ungdom</b>\n<br><br>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/b7Kyq7qyqzU?si=KfwKY9zX_aoeOHek\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> <br><br>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/8idZka9vWz8?si=_IfnFd8JDHszEMx6\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n<br>\n\n<img src=\"https://eu.uploads.micro.blog/297933/2026/cf5d6e617e.png\"><img src=\"https://eu.uploads.micro.blog/297933/2026/e9980c6bd2.jpg\"><img src=\"https://eu.uploads.micro.blog/297933/2026/9b94a52905.jpg\">\n",
 				"date_published": "2026-04-02T11:33:17+02:00",
 				"url": "https://fff.omg.lol/2026/04/02/the-first-vinyl-i-ever.html",
 				"tags": ["www"]
@@ -152,9 +162,9 @@
 			},
 			{
 				"id": "http://fff.micro.blog/2026/04/02/a-late-hbp-brother-alien.html",
-				"title": "A Late HBP Brother Alien Homie . Love you",
-				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "<br>\n<3\n<br>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/3e8EoydyUlw?si=-mlpsEyRSBlysM0h\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> <br><br>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/xnq1yeDB0DA?si=XhlohR_nJJPAObFl\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n\n<img src=\"https://eu.uploads.micro.blog/297933/2026/4988c96d76.png\"><img src=\"https://eu.uploads.micro.blog/297933/2026/953a5873-be36-48d3-b226-58a141a17c3a.jpg\">\n",
+				"title": "A Late HBP Brother / Fellow Alien / Homie . Love you",
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/3e8EoydyUlw?si=-mlpsEyRSBlysM0h\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe> <br><br>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/xnq1yeDB0DA?si=XhlohR_nJJPAObFl\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n\n<img src=\"https://eu.uploads.micro.blog/297933/2026/4988c96d76.png\"><img src=\"https://eu.uploads.micro.blog/297933/2026/953a5873-be36-48d3-b226-58a141a17c3a.jpg\">\n",
 				"date_published": "2026-04-02T08:21:00+02:00",
 				"url": "https://fff.omg.lol/2026/04/02/a-late-hbp-brother-alien.html",
 				"tags": ["fff/img","www"]
@@ -162,9 +172,9 @@
 			{
 				"id": "http://fff.micro.blog/2026/03/28/why-are-you-feeding-the.html",
 				"title": "Why Are you Feeding the Palantir Database?",
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<br>\n... Louder for the people in the back ..... <br>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ahWODOQ2_o4?si=YjhY-J2vFi4SMbfj\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n",
-				"date_published": "2026-03-28T14:22:38+02:00",
+				"content_html": "<p>&hellip; Louder for the people in the back &hellip;.. <!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "... Louder for the people in the back ..... <br><br>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ahWODOQ2_o4?si=YjhY-J2vFi4SMbfj\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n",
+				"date_published": "2026-03-28T15:22:00+02:00",
 				"url": "https://fff.omg.lol/2026/03/28/why-are-you-feeding-the.html",
 				"tags": ["www"]
 			},
@@ -180,29 +190,38 @@
 			{
 				"id": "http://fff.micro.blog/2026/03/27/should-you-feel-guilty-using.html",
 				"title": "Should you feel guilty using AI? ... (yes)",
-				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "<br><br>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/5sFBySzNIX0?si=vxDpWCFfot7mG56W\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n",
-				"date_published": "2026-03-27T17:22:59+02:00",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/5sFBySzNIX0?si=vxDpWCFfot7mG56W\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n",
+				"date_published": "2026-03-27T18:22:00+02:00",
 				"url": "https://fff.omg.lol/2026/03/27/should-you-feel-guilty-using.html",
 				"tags": ["links","links/tech","www"]
 			},
 			{
 				"id": "http://fff.micro.blog/2026/03/19/mr-beast-is-just-a.html",
 				"title": "Mr. Beast is just a product of the 1%",
-				"content_html": "<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "<br>\nThe dude clearly contracted his soul. <br>\nNever trust a person that always smiles, y u c k .\n\n\n<br><br>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/cajLhFGFP1Y?si=dQ6zWYC21xADto7U\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n",
-				"date_published": "2026-03-19T18:38:56+02:00",
+				"content_html": "<p>The dude clearly contracted his soul. <!-- raw HTML omitted -->\nNever trust a person that always smiles, y u c k .\n<!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The dude clearly contracted his soul. <br>\nNever trust a person that always smiles, y u c k .\n<br><br>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/cajLhFGFP1Y?si=dQ6zWYC21xADto7U\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n",
+				"date_published": "2026-03-19T19:38:00+02:00",
 				"url": "https://fff.omg.lol/2026/03/19/mr-beast-is-just-a.html",
 				"tags": ["www"]
 			},
 			{
 				"id": "http://fff.micro.blog/2026/03/19/protect-me-from-what-i.html",
 				"title": "Protect me from what I want",
-				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted -->\nHighkey .. ?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "<br><br>\nHighkey .. ?\n\n<img src=\"https://eu.uploads.micro.blog/297933/2026/lords.png\" width=\"600\" height=\"527\" alt=\"\">\n",
-				"date_published": "2026-03-19T17:56:43+02:00",
+				"content_html": "<p>Highkey .. ?</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Highkey .. ?\n\n<img src=\"uploads/2026/lords.png\">\n",
+				"date_published": "2026-03-19T18:56:00+02:00",
 				"url": "https://fff.omg.lol/2026/03/19/protect-me-from-what-i.html",
 				"tags": ["fff/gaming"]
+			},
+			{
+				"id": "http://fff.micro.blog/2026/03/15/033700.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\n\n\n<img src=\"uploads/2026/5128f9ae7d6f72ddaabb6c1dc2f191ff.jpg\">\n",
+				"date_published": "2026-03-15T03:37:00+02:00",
+				"url": "https://fff.omg.lol/2026/03/15/033700.html",
+				"tags": ["www"]
 			},
 			{
 				"id": "http://fff.micro.blog/2026/03/15/shmirlap-mikro-calderon-thomas-ill.html",
