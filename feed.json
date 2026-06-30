@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://fff.micro.blog/2026/06/30/rip-oliver-tree.html",
+				"title": "RIP Oliver Tree \u003c/3 :(",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/_ocfE8Ua-7U?si=mBGe268mcfedReHk&start=91\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n",
+				"date_published": "2026-06-30T18:29:15+02:00",
+				"url": "https://fff.omg.lol/2026/06/30/rip-oliver-tree.html",
+				"tags": ["www"]
+			},
+			{
 				"id": "http://fff.micro.blog/2026/06/14/122049.html",
 				"title": " v o i d",
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -43,7 +52,7 @@
 				"id": "http://fff.micro.blog/2026/06/06/wishlist.html",
 				"title": "I'm down !",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2026/matrixarnold.png\">\n",
+				"content_text": "<img src=\"https://eu.uploads.micro.blog/297933/2026/matrixarnold.png\">\n",
 				"date_published": "2026-06-06T02:50:30+02:00",
 				"url": "https://fff.omg.lol/2026/06/06/wishlist.html"
 			},
